@@ -12,6 +12,6 @@
   - I will be graduating from high school (Computing Technician - Software Development) this year (2021.)
 
 <!---
-kraljmirjan/kraljmirjan is a ✨ special ✨ repository because its `ABOUTME.md` (this file) appears on your GitHub profile.
+kraljmirjan/kraljmirjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
